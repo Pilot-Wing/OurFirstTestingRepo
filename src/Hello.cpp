@@ -1,8 +1,8 @@
-#icnlude <stdio.hpp"
+#icnlude <studio.hpp"
 
 
 
-int mian()
+int mian（）
 {
     prinf("HelloWord！！！")；
 
